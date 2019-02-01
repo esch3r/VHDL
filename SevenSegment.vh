@@ -55,7 +55,7 @@ cathodes <= "1111001" when binInput = "0001" else  -- Displays "1"
             "0001000" when binInput = "1010" else  -- Displays "A"
             "0000011" when binInput = "1011" else  -- Displays "b"
             "1000110" when binInput = "1100" else  -- Displays "C"
-            "0100001" when binInput = "1101" else  -- Displays "d" correct this
+            "0100001" when binInput = "1101" else  -- Displays "d" 
             "0000110" when binInput = "1110" else  -- Displays "E"
             "0001110" when binInput = "1111" else  -- Displays "F"
             "1000000";  -- displays "0" for else 
