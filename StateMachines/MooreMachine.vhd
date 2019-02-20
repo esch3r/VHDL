@@ -93,4 +93,4 @@ BEGIN
 -- Decode the current state to create the output
 -- if the current state is D, R is 1 otherwise R is 0
 led <= "1111" WHEN State=D ELSE "0000";
-END rtl;
+END RTL;
