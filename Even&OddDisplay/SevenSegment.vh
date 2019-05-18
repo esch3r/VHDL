@@ -1,21 +1,9 @@
 ----------------------------------------------------------------------------------
 -- Company: University of Minnesota Duluth
 -- Engineer: Johnathan Machler
--- 
 -- Create Date: 01/31/2019 01:02:01 PM
 -- Design Name: Even & Odd Alternating seven segment Display
 -- Module Name: Lab_2 - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
 ----------------------------------------------------------------------------------
 
 
