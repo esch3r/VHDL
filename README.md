@@ -1,4 +1,4 @@
-# VHDL Syntax basics 
+# VHDL syntax basics 
 
 ## PRIMARY DESIGN UNIT MODEL STRUCTURE - 
 Each VHDL design unit comprises an "entity" declaration and one or more "architectures". Each architecture defines a different implementation or model of a given design unit. The entity definition defines the inputs to, and outputs from the module, and any "generic" parameters used by the different implementations of the module.
