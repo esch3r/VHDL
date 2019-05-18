@@ -5,17 +5,6 @@
 -- Create Date: 02/17/2019 11:38:16 PM
 -- Design Name: 
 -- Module Name: seq_detector - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
 ----------------------------------------------------------------------------------
 
 
