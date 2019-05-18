@@ -1,5 +1,4 @@
 # MIPS Processor in VHDL
-Term project for ECEC 355.
 
 ![The MIPS Processor](http://i.imgur.com/6R3Xz.png)
 
