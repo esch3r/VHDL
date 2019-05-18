@@ -53,8 +53,3 @@ Details of the major parts of the processor.
   - For ll you sign extending needs. Isn't this a very accurate description.
 - memory.vhd
   - Sample text
-
-## Todo
-1. Add `lw` and `sw` support.
-2. Profit.
-3. Ayy lmao.
