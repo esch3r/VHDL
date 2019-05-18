@@ -1,1 +1,2 @@
-# VHDL
+# Computer Architecture  - VHDL  / Verilog
+
