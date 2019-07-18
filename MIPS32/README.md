@@ -1,4 +1,5 @@
 # MIPS Processor in VHDL
+Term project for EE 4611.
 
 ![The MIPS Processor](http://i.imgur.com/6R3Xz.png)
 
