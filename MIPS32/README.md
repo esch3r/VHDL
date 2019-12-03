@@ -9,7 +9,7 @@ Term project for EE 4611.
 3. On the modelsim command line, run `source setup.tcl`. This is a small script that automatically compiles the code, generates the simulation (though it doesn't run it), and adds the objects into the wave view. If this doesn't work, then you can just compile and run the normal way.
 
 ## How the code runs
-The first clock cycle is always dedicated to reading the code from `instructions.txt` and saving it into the instruction memory (found in `instruction_memory.vhd`). It has nothing to do with the processor itself. This is just a preliminary action. Starting on the second clock cycle is when the program runs.
+The first clock cycle is always dedicated to reading the code from ` and saving it into the instruction memory (found in ). It has nothing to do with the processor itself. This is just a preliminary action. Starting on the second clock cycle is when the program runs.
 
 Every clock cycle after the first reads an instruction from the instruction memory and increments the program counter accordingly. The program will continue to run until the pc has reached an address greater than the address of the last instruction in memory. The instruction, data, and register memory will still persist after the program ends and will only change if it is overwritten, or the simulation ends.
 
